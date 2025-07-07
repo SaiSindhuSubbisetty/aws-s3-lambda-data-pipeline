@@ -23,6 +23,12 @@ It shows how to automate the processing of incoming files, run aggregations, and
 
 ---
 
+## 🗺️ Data Pipeline Diagram
+Below is a simple diagram of how the AWS S3 Lambda Data Pipeline works:
+![Screenshot 2025-07-07 105850](https://github.com/user-attachments/assets/96e46277-93f1-4fe5-af8d-20167c62c295)
+
+---
+
 ## 📁 Project Structure
 
 project/
